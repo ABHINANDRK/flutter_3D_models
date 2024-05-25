@@ -1,4 +1,4 @@
-# flutter_3D_models
+# Flutter 3D Models Rending Using Platform View
 This repository demonstrates how to integrate and render 3D models in Flutter using Platform View, which allows you to embed native views in a Flutter app.
 
 iOS: Uses .usdz file format for 3D models.
